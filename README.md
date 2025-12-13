@@ -10,13 +10,13 @@
 
 </div>
 
----
+
 
 ## 🚀 Project Overview
 
 Music platforms like **Shazam** and **Spotify** analyze audio signals to recognize songs and suggest similar music.  
 
----
+
 
 ## 🧠 System Workflow
 
@@ -28,7 +28,7 @@ Music platforms like **Shazam** and **Spotify** analyze audio signals to recogni
 6. Similar songs are recommended
 7. Results are displayed on the website
 
----
+
 
 ## 🏗️ Tech Stack
 
@@ -61,7 +61,7 @@ Music platforms like **Shazam** and **Spotify** analyze audio signals to recogni
 
 This project **intentionally avoids deep learning** to keep it beginner-friendly.
 
----
+
 
 ### 🎼 1️⃣ Audio Feature Extraction (Input to ML Models)
 
@@ -121,7 +121,7 @@ The trained model is saved using `joblib` or `pickle`.
 4. Model outputs predicted mood
 5. Mood shown on frontend
 
----
+
 
 ## 🎧 3️⃣ Recommendation Logic (ML + API Based)
 
@@ -139,7 +139,7 @@ The trained model is saved using `joblib` or `pickle`.
 
 📌 Beginners can start with **API-based recommendations**.
 
----
+
 
 ## 📁 Project Structure
 ```
@@ -244,7 +244,7 @@ tune-trace/                          # (or whatever name you choose)
 - Spectrogram-based deep learning
 - User-personalized recommendations
 - Multi-label mood prediction
----
+
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
