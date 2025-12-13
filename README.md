@@ -16,7 +16,8 @@
 
 Music platforms like **Shazam** and **Spotify** analyze audio signals to recognize songs and suggest similar music.  
 
-
+## 🤝 Contributers
+- ![Ruvaifa](https://github.com/Ruvaifa)
 
 ## 🧠 System Workflow
 
